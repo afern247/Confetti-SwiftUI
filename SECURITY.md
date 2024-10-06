@@ -10,7 +10,7 @@ Which versions of the project are currently being supported with security update
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in this project, please report it by emailing me at [support@arturofm.com](mailto:security@road2crypto.com). Please include the following information in your report:
+If you discover a security vulnerability in this project, please report it by emailing me at [support@arturofm.com](mailto:support@arturofm.com). Please include the following information in your report:
 
 - A brief description of the vulnerability
 - Steps to reproduce the vulnerability
@@ -24,7 +24,7 @@ Once we have identified and fixed a security vulnerability, we will disclose it 
 
 ## Security Contact Information
 
-If you have any questions or concerns about the security of this project, please contact me at [support@arturofm.com](mailto:security@road2crypto.com).
+If you have any questions or concerns about the security of this project, please contact me at [support@arturofm.com](mailto:support@arturofm.com).
 
 ## Additional Information
 
