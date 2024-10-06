@@ -30,9 +30,12 @@ This is an open-source library to use with SwiftUI. It allows you to create and 
 
 If you like the project, don't forget to `put star 🌟`.
 
- <a href="https://brianmacdonald.github.io/Ethonate/address#0xCBa97323b4cA2fF9330827faF306065da7aA338F">
-   <img src="https://brianmacdonald.github.io/Ethonate/svg/eth-donate-blue.svg"/>
- </a>
+Donate to:
+- ETH address: 0x5d1d84d7d03016c505720e05f689cc49d77ebcb2
+
+or
+
+- Solana: 6gDFAxgXeoYDmHRDRmGSs88zM69EiBqxjUy4o8GeyjAP
 
 ## 🧭 Navigation
 
