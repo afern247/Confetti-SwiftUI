@@ -1,6 +1,6 @@
 //
 //  Package.swift
-//  Confetti-SwiftUI
+//  Confetti_SwiftUI
 //
 //  Created by Arturo on 10/6/24.
 //
@@ -11,7 +11,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Confetti-SwiftUI",
+    name: "Confetti_SwiftUI",
     platforms: [
         .iOS(.v17),
         .macOS(.v14),
@@ -20,15 +20,15 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "Confetti-SwiftUI",
-            targets: ["Confetti-SwiftUI"]),
+            name: "Confetti_SwiftUI",
+            targets: ["Confetti_SwiftUI"]),
     ],
     dependencies: [
         // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
         .target(
-            name: "Confetti-SwiftUI",
+            name: "Confetti_SwiftUI",
             dependencies: [],
             path: "Sources"),
     ]

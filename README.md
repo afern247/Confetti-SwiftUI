@@ -1,4 +1,4 @@
-# Confetti-SwiftUI
+# Confetti_SwiftUI
 
 <img src="https://img.shields.io/badge/PLATFORM-IOS%20|%20MACOS-lightgray?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/LICENSE-MIT-lightgray?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MADE WITH-SWIFTUI-orange?style=for-the-badge" />
 
@@ -58,17 +58,17 @@ or
 
 The [Swift Package Manager](https://swift.org/package-manager/) is a tool for managing the distribution of Swift code. It’s integrated with the Swift build system to automate the process of downloading, compiling, and linking dependencies.
 
-To integrate `Confetti-SwiftUI` into your Xcode project using Xcode 12, specify it in `File > Swift Packages > Add Package Dependency...`:
+To integrate `Confetti_SwiftUI` into your Xcode project using Xcode 12, specify it in `File > Swift Packages > Add Package Dependency...`:
 
 ```ogdl
-https://github.com/afern247/Confetti-SwiftUI.git, :branch="main"
+https://github.com/afern247/Confetti_SwiftUI.git, :branch="main"
 ```
 
 ---
 
 ### Manually
 
-If you prefer not to use any of dependency managers, you can integrate `Confetti-SwiftUI` into your project manually. Put `Sources/Confetti-SwiftUI` folder in your Xcode project. Make sure to enable `Copy items if needed` and `Create groups`.
+If you prefer not to use any of dependency managers, you can integrate `Confetti_SwiftUI` into your project manually. Put `Sources/Confetti_SwiftUI` folder in your Xcode project. Make sure to enable `Copy items if needed` and `Create groups`.
 
 ## 🧳 Requirements
 
@@ -77,11 +77,11 @@ If you prefer not to use any of dependency managers, you can integrate `Confetti
 
 ## 🛠 Usage
 
-First, add `import Confetti-SwiftUI` on every `swift` file you would like to use `Confetti-SwiftUI`. Define a integer as a state varable which is responsible for triggering the animation. Any change to that variable will span a new animation (increment and decrement).
+First, add `import Confetti_SwiftUI` on every `swift` file you would like to use it. Define a integer as a state variable which is responsible for triggering the animation. Any change to that variable will span a new animation (increment and decrement).
 
 ```swift
 import SwiftUI
-import Confetti-SwiftUI
+import Confetti_SwiftUI
 
 struct ContentView: View {
 
@@ -202,10 +202,10 @@ Arturo Fernandez Marco
 
 ## 📃 License
 
-`Confetti-SwiftUI` is available under the MIT license. See the [LICENSE](https://github.com/afern247/Confetti-SwiftUI/blob/master/LICENSE) file for more info.
+`Confetti_SwiftUI` is available under the MIT license. See the [LICENSE](https://github.com/afern247/Confetti_SwiftUI/blob/master/LICENSE) file for more info.
 
 ## 📦 Projects
 
-The following projects have integrated Confetti-SwiftUI in their App.
+The following projects have integrated Confetti_SwiftUI in their App.
 
 - [Road2Crypto](https://road2crypto.com) available on the [AppStore](https://apps.apple.com/us/app/road2crypto-crypto-tracker/id1580265927)

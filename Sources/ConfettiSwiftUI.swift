@@ -1,6 +1,6 @@
 //
 //  ConfettiView.swift
-//  Confetti-SwiftUI
+//  Confetti_SwiftUI
 //
 //  Created by Arturo on 10/6/24.
 //
