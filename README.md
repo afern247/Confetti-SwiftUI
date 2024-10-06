@@ -73,7 +73,7 @@ If you prefer not to use any of dependency managers, you can integrate `Confetti
 ## 🧳 Requirements
 
 - iOS 17.0+ | macOS 14+ | tvOS 17+ | watchOS 10+
-- Swift 5.9+
+- Swift 6.0+
 
 ## 🛠 Usage
 
