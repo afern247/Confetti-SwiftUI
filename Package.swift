@@ -5,7 +5,7 @@
 //  Created by Arturo on 10/6/24.
 //
 
-// swift-tools-version:5.3
+// swift-tools-version:6.0
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
