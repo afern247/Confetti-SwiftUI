@@ -58,7 +58,7 @@ The [Swift Package Manager](https://swift.org/package-manager/) is a tool for ma
 To integrate `Confetti-SwiftUI` into your Xcode project using Xcode 12, specify it in `File > Swift Packages > Add Package Dependency...`:
 
 ```ogdl
-https://github.com/simibac/Confetti-SwiftUI.git, :branch="master"
+https://github.com/afern247/Confetti-SwiftUI.git, :branch="main"
 ```
 
 ---
@@ -111,10 +111,6 @@ struct ContentView: View {
 | radius             | CGFloat        | explosion radius                                      | 300.0                                                                                                |
 | repetitions        | Int            | number of repetitions for the explosion               | 0                                                                                                    |
 | repetitionInterval | Double         | duration between the repetitions                      | 1.0                                                                                                  |
-
-### Configurator Application With Live Preview
-
-You can use the configurator app in [demo project here](https://github.com/simibac/Confetti-SwiftUIDemo) to make your desired animation or get inspired by one of the many examples.
 
 <p align="center">
    <img src="./Gifs/configurator.png" width="150" />
@@ -186,7 +182,7 @@ You can use the configurator app in [demo project here](https://github.com/simib
 
 
 <p align="center">
-  <img src="https://github.com/simibac/Confetti-SwiftUI/assets/15369592/c4c7c28a-c8cc-4d17-bd5c-240ce5cb4dcb" width="150" />
+  <img src="./Gifs/crypto.gif" width="150" />
 </p>
 
 ```swift
@@ -203,7 +199,7 @@ Arturo Fernandez
 
 ## 📃 License
 
-`Confetti-SwiftUI` is available under the MIT license. See the [LICENSE](https://github.com/simibac/Confetti-SwiftUI/blob/master/LICENSE) file for more info.
+`Confetti-SwiftUI` is available under the MIT license. See the [LICENSE](https://github.com/afern247/Confetti-SwiftUI/blob/master/LICENSE) file for more info.
 
 ## 📦 Projects
 
