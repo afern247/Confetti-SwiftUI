@@ -182,7 +182,7 @@ struct ContentView: View {
 
 
 <p align="center">
-  <img src="./Gifs/crypto.gif" width="150" />
+  <img src="./Gifs/crypto.png" width="150" />
 </p>
 
 ```swift
