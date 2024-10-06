@@ -72,16 +72,16 @@ If you prefer not to use any of dependency managers, you can integrate `Confetti
 
 ## 🧳 Requirements
 
-- iOS 14.0+ | macOS 11+
-- Swift 5+
+- iOS 17.0+ | macOS 14+ | tvOS 17+ | watchOS 10+
+- Swift 5.9+
 
 ## 🛠 Usage
 
 First, add `import Confetti-SwiftUI` on every `swift` file you would like to use `Confetti-SwiftUI`. Define a integer as a state varable which is responsible for triggering the animation. Any change to that variable will span a new animation (increment and decrement).
 
 ```swift
-import Confetti-SwiftUI
 import SwiftUI
+import Confetti-SwiftUI
 
 struct ContentView: View {
 
@@ -198,7 +198,7 @@ All issue reports, feature requests, pull requests and GitHub stars are welcomed
 
 ## ✍️ Author
 
-Arturo Fernandez
+Arturo Fernandez Marco
 
 ## 📃 License
 
@@ -208,8 +208,4 @@ Arturo Fernandez
 
 The following projects have integrated Confetti-SwiftUI in their App.
 
-- [Basic Code](https://basiccode.de) available on the [AppStore](https://apps.apple.com/de/app/basiccode/id1562309250)
-
----
-
-- [Jump Up](#-overview)
+- [Road2Crypto](https://road2crypto.com) available on the [AppStore](https://apps.apple.com/us/app/road2crypto-crypto-tracker/id1580265927)
